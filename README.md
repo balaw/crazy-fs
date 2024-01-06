@@ -28,7 +28,7 @@ fs.writeFileSync(createfile, result);
 ### Read the  HTML file synchronously and remove all tags and let script js and add var name function to file.js
 
 
-
+```js
 
 
 
@@ -61,4 +61,11 @@ const createfile = 'file.js';
 fs.writeFileSync(createfile, modifiedContent);
 
 console.log(`File "${createfile}" created successfully.`);
+
+
+
+```
+
+
+
 
