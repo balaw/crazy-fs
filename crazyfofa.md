@@ -1,5 +1,6 @@
 # crazy fofa 
 
+it remove double cout and commas from numbers
 
 ```js
 
